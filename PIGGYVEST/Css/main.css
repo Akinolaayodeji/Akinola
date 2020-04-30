@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: U8, sans-serif;
+}
+body {
+    background-color: rgb(6,  40, 99);
+}
+
+.corner-images img {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+}
+
+.corner-images .top-right {
+right: -30px;
+top: -30px;
+}
+.corner-images .top-left {
+    left: -30px;
+    top: -30px;
+    }
+
+.corner-images .bottom-right {
+        right: -30px;
+        bottom: -30px;
+        }
+
+.corner-images .bottom-right {
+            right: -30px;
+            bottom: -30px;
+        }
+
+ .corner-images .bottom-left {
+                left: -30px;
+                bottom: -30px;
+                }
+   
+.logo {
+    text-align: center;
+    padding: 50px;
+}              
+
+form {
+    background-color: white;
+    min-width: 300px;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 20px 20px 20px 0;
+}
+
+form .heading{
+text-align: center;
+padding-bottom: 50px;
+}
+form h1{
+    color: #083e9e;
+    font-size:1.5rem;
+    padding-bottom: 10px;
+}
